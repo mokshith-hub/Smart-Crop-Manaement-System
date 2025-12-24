@@ -1,0 +1,1 @@
+# Smart-Crop-Manaement-System
